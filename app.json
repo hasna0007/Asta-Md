@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "Astro",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required": true
     },
 
@@ -46,12 +46,12 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "ᴀꜱᴛᴀ-ᴍᴅ"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
       "required": false,
-      "value": "https://i.imgur.com/lIo3cM2.jpeg,https://i.imgur.com/OQOH4Gn.jpeg"
+      "value": "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg,https://telegra.ph/file/87f4f70bad910021354fd.jpg"
     },
     "TZ": {
       "description": "Don't change if you dont know your location.",
@@ -81,7 +81,7 @@
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -104,7 +104,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner number or sudo",
-      "value": "2348039607375"
+      "value": "917034167123"
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -123,16 +123,16 @@
     },
     "MODE": {
       "description": "Public or Private",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Asta Md",
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required": false
     }
   },
